@@ -6,6 +6,7 @@ Implements support for the Freescale MPL115A2 barometric pressure sensor.
 Copyright (c) 2014 by Kevin Houlihan
 License: MIT, see LICENSE for more details.
 
+**This repository has been [migrated to Codeberg](https://codeberg.org/khoulihan/micropython-mpl115a2).**
 
 Usage
 =====
